@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13520e8e-c99b-41e5-ac13-d18eb1193521" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="218lBLTR2YBvE7rZa1SVfmo3jbJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.5.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.9" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\nodetgbot.io" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13520e8e-c99b-41e5-ac13-d18eb1193521" name="Default Changelist" comment="" />
+      <created>1637330459800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637330459800</updated>
+      <workItem from="1637330461211" duration="871000" />
+      <workItem from="1637331346817" duration="6839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2964" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637337169820">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2964" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1637337169820" />
+    <state x="3086" y="271" key="FileChooserDialogImpl" timestamp="1637332919708">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3086" y="271" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1637332919708" />
+    <state x="2807" y="175" key="SettingsEditor" timestamp="1637332924093">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2807" y="175" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1637332924093" />
+    <state x="3039" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1637331259676">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3039" y="264" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1032@1920.0.1920.1032" timestamp="1637331259676" />
+  </component>
+</project>
