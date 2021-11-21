@@ -30,11 +30,11 @@ bot.help((ctx) => {
 });
 
 bot.command(['picture', 'image', 'img', 'pic'], (ctx) => {
-    ctx.replyWithPhoto({
+    /*ctx.replyWithPhoto({
         url: 'https://picsum.photos/1080/1920/?random',
         filename: 'kitten.jpg',
-        action: 'sending'
-    })
+        action: 'typing'
+    })*/
     ctx.replyWithDocument({
         url: 'https://picsum.photos/1080/1920/?random',
         filename: 'kitten.jpg',
